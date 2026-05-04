@@ -1,40 +1,103 @@
-# Welcome to My Profile
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen)
-![GitHub Followers](https://img.shields.io/badge/Followers-200-orange)
+# 👋 Welcome to My Profile
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Cahenom!;Fullstack+Developer;Tech+Enthusiast;Building+Cool+Things+🚀;Welcome+to+my+GitHub+Profile" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1000-00f7ff?style=for-the-badge&logo=eye&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/cahenom?style=for-the-badge&color=ff4d4d&logo=github"/>
+  <img src="https://img.shields.io/github/stars/cahenom?style=for-the-badge&color=yellow&logo=star"/>
+</p>
+
+
 
 ## 🌟 About Me
 
-Hello! I'm **Cahenom**, a passionate developer and tech enthusiast. I love exploring new technologies and building innovative projects.
 
----
+Name: Cahenom
+Role: Fullstack Developer
+Focus: Web, Mobile, Automation, Game Dev
+Stack: JavaScript, Node.js, React, Unity, Kotlin, Go
 
-## ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cahenom&show_icons=true&theme=radical)
+💡 Developer yang suka bikin sistem kompleks (PPOB, API, Game, Automation)
+🔥 Fokus ke performa, UI modern, dan scalable system
 
----
 
-## 🛠️ Skills
 
-![HTML](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-2196F3?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cahenom&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
-## 🧩 Profile Decorations
 
-I'm currently exploring:
-- 🌐 Web Development
-- 📱 Mobile Apps
-- ⚙️ Automation
 
----
+## 📊 GitHub Stats
 
-### Thanks for visiting my profile! Feel free to connect!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cahenom&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahenom&theme=radical&hide_border=true" height="180"/>
+</p>
 
+
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cahenom&theme=react-dark&hide_border=true"/>
+</p>
+
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahenom&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,unity,java,kotlin,go,php,laravel,mysql,firebase,git,linux" />
+</p>
+
+
+## ⚡ Current Focus
+
+* 🔥 PPOB System & Payment Gateway
+* 📱 Mobile Apps (Android & React Native)
+* 🎮 Game Development (Unity Multiplayer)
+* ⚙️ Backend API & Automation System
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cahenom/cahenom/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
+
+
+## 💻 Dev Quote
+
+> "Build fast, scale smart, break limits."
+
+
+
+<p align="center">
+  ⭐ From Cahenom | Built with ❤️ & Code  
+</p>
