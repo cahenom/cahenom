@@ -78,7 +78,7 @@ Stack: JavaScript, Node.js, React, Unity, Kotlin, Go
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cahenom/cahenom/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/cahenom/cahenom/output/github-contribution-grid-snake.svg" />
 </p>
 
 
